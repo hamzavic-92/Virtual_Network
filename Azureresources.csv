@@ -1,0 +1,13 @@
+﻿NAME,TYPE,LOCATION,
+"Hamza-Test-labs97","App Service","East US"
+"ASP-myRGNetwork-86f5","App Service plan","East US"
+"myBackend_OsDisk_1_21f286cb925f46e793649b8c7b6c04af","Disk","East US"
+"myFrontend_disk1_74e2ae73d1f0458aa908cc5f80dfa935","Disk","East US"
+"myBackend","Network Interface","East US"
+"myFrontend","Network Interface","East US"
+"myBackendNSG","Network security group","East US"
+"myFrontendNSG","Network security group","East US"
+"myPublicIPAddress","Public IP address","East US"
+"myBackend","Virtual machine","East US"
+"myFrontend","Virtual machine","East US"
+"myVNet","Virtual network","East US"
